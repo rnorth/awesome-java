@@ -10,7 +10,7 @@ Unfortunately, not every library/tool/framework can be considered. The aim of th
 
 (d) a niche product that fills a gap
 
-Self-promotion is frowned upon and will be reviewed critically but the suggestion will of course be approved if they criteria match.
+Self-promotion is frowned upon and will be reviewed critically but the suggestion will of course be approved if the criteria match.
 
 If a certain entry does not get accepted, you should first look if there has been a discussion before. These discussions are in the issue section and normally marked with the question tag. If there hasn't been such a topic, you are free to create a new issue tagged as question.
 
